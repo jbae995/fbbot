@@ -1,0 +1,6 @@
+check coffee_bot
+      show_replies_coffee
+      wait_for_command
+
+finish wait_for_command
+78~87 code check
